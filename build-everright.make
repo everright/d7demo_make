@@ -7,4 +7,4 @@ includes[] = drupal-org.make
 projects[everright][type] = profile 
 projects[everright][download][type] = git
 ;projects[everright][download][tag] = 7.x-1.0
-projects[everright][download][url] = "https://github.com:everright/d7demo_profile.git"
+projects[everright][download][url] = "https://github.com/everright/d7demo_profile.git"
