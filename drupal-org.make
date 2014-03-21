@@ -45,12 +45,12 @@ projects[drupalforfirebug][subdir] = "devel"
 ; Themes
 projects[BootstrapBlocks][type] = theme
 projects[BootstrapBlocks][download][type] = git
-projects[BootstrapBlocks][download][url] = "git@github.com:patrickocoffeyo/BootstrapBlocks.git"
+projects[BootstrapBlocks][download][url] = "https://github.com:patrickocoffeyo/BootstrapBlocks.git"
 
 projects[Drupal-7-Starter-Theme][type] = theme
 projects[Drupal-7-Starter-Theme][download][type] = git
 projects[Drupal-7-Starter-Theme][download][branch] = master
-projects[Drupal-7-Starter-Theme][download][url] = "git@github.com:mattbanks/Drupal-7-Starter-Theme.git"
+projects[Drupal-7-Starter-Theme][download][url] = "https://github.com:mattbanks/Drupal-7-Starter-Theme.git"
 
 projects[bootstrap_grunt][type] = theme
 projects[bootstrap_grunt][download][type] = git
