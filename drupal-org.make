@@ -21,7 +21,7 @@ libraries[ckeditor][overwrite] = TRUE
 
 ; SEO & Security
 projects[pathauto][subdir] = "contrib"
-projects[transliteration][subdir] = "contrib"
+;projects[transliteration][subdir] = "contrib"
 projects[google_analytics][subdir] = "contrib"
 projects[globalredirect][subdir] = "contrib"
 projects[metatag][subdir] = "contrib"
